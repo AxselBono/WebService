@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ws_response>
+    <head>
+        <date></date>
+        <method>lcase</method>
+        <parameters>
+            <p1>AjajdnA</p1>
+            <p2></p2>
+        </parameters>
+        <errors>
+            <error>
+                <num_error>0</num_error>
+                <message_error></message_error>
+            </error>
+        </errors>
+    </head>
+    <body>
+        <response_value>ajajdna</response_value>
+    </body>
+</ws_response>
